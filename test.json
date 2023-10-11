@@ -1,0 +1,34 @@
+// this.stateのJSONの値
+{
+  "0": {
+    "value": {
+      "text": "テスト見出し",
+      "type": "h2"
+    },
+    "action": "heading"
+  },
+  "1": {
+    "value": {
+      "text": "テストテキスト",
+      "is_rich": false
+    },
+    "action": "text"
+  },
+  "2": {
+    "value": {
+      "text": "テキスト",
+      "is_rich": false
+    },
+    "action": "text"
+  },
+  "3": {
+    "value": {
+      "text": "byebugに関して",
+      "href": "https://qiita.com/shinpachix/items/b9b8d952570780bfdaa7",
+      "description": "byebugの説明URL",
+      "source": "",
+      "img_url": ""
+    },
+    "action": "link"
+  }
+}
